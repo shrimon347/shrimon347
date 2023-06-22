@@ -1,7 +1,7 @@
 <h3 align="center">Hi 👻, I'm Rimon Mridha</h3>
 <h3 align="center" style="color:#F9521D"> Software Developer & Designer<h3>
 
-<P align="center"><img width="275" align="center" src="https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/342631514_218814057555913_3121393234608266862_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHw_z2y1rkb38GsmwVxvwtPV3OnmctskkFXc6eZy2ySQVju9RLqTu0oila_HyN1-r3Ex1yXq7eAwbprNABgqyff&_nc_ohc=cvawxjA8v7wAX_-LXTg&_nc_ht=scontent.fdac31-1.fna&oh=00_AfDwp4iU99uZQeW2zI15vjdyMAS64vdnoZLae8xFG1yhJw&oe=64886D4B"/>
+<P align="center"><img width="275" align="center" src="https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/355299565_973405473904269_766363393973198962_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeExFpHnqhd5bpAqvZPrVR-cw-RvUubWrnPD5G9S5tauc03q1XyKurPzTYNc1uGNfZ2P1qrhbvwBoQpytqAbTJj-&_nc_ohc=YKA8VgviCHIAX_kH8aV&_nc_ht=scontent.fdac99-1.fna&oh=00_AfBpm3vHCRwxmWfv6n45JoYXZb1wt5ARlYM_YxRKxoTWzw&oe=649A6EA4"/>
 </p>
 
 
