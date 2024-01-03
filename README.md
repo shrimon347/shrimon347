@@ -1,7 +1,7 @@
 <h3 align="center">Hi 👻, I'm Rimon Mridha</h3>
 <h3 align="center" style="color:#F9521D"> Software Developer & Designer<h3>
 
-<P align="center"><img width="275" align="center" src="https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/355299565_973405473904269_766363393973198962_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeExFpHnqhd5bpAqvZPrVR-cw-RvUubWrnPD5G9S5tauc03q1XyKurPzTYNc1uGNfZ2P1qrhbvwBoQpytqAbTJj-&_nc_ohc=0ta0n2fzX08AX862AOm&_nc_ht=scontent.fdac31-1.fna&oh=00_AfDiB4LKe2NzuLTgAVKnPTtVYiFhfT5ullobe5eA-KNjDw&oe=65170464"/>
+<P align="center"><img width="275" align="center" src="https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/355299565_973405473904269_766363393973198962_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=9c7eae&_nc_eui2=AeExFpHnqhd5bpAqvZPrVR-cw-RvUubWrnPD5G9S5tauc03q1XyKurPzTYNc1uGNfZ2P1qrhbvwBoQpytqAbTJj-&_nc_ohc=31g3WD3OuRYAX_UZAdI&_nc_ht=scontent.fdac24-1.fna&oh=00_AfAZ2dj9PR7_hU_MXOYw7_9qRZqndXw3lhH5U18Hfi-_Ng&oe=659988E4"/>
 </p>
 
 
@@ -19,7 +19,7 @@ I’m a Web developer & Designer who is passionate about making error-free websi
   <a href="https://dribbble.com/RIOBOT" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="dribbble logo"  />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100006263055850" target="_blank">
+  <a href="https://www.facebook.com/shrimon.mee" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
   </a>
   <a href="https://www.instagram.com/shrimon39" target="_blank">
