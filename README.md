@@ -46,7 +46,7 @@ I’m a Web developer & Designer who is passionate about making error-free websi
 [![Rimon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shrimon347&theme=tokyo-night&show_icons=true)](https://github.com/shrimon347/github-readme-activity-graph)
 
 
-<p align="center"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=shrimon347&theme=algolia&show_icons=true)" /> </p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrimon347&hide_progress=true)" /> </p>
 
 
 <p align="center"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shrimon347&theme=algolia&show_icons=true" /> </p>
