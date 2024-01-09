@@ -52,4 +52,4 @@ I’m a Web developer & Designer who is passionate about making error-free websi
 <p align="center"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shrimon347&theme=algolia&show_icons=true" /> </p>
 
 
-<p align="center"> <img align="center" src="https://streak-stats.demolab.com/?user=shrimon347&theme=algolia&show_icons=true"/> </P>  
+<p align="center"> <img align="center" src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shrimon347&theme=algolia&show_icons=true" alt="GitHub Streak"/> </P>  
