@@ -1,7 +1,7 @@
 <h3 align="center">Hi 👻, I'm Rimon Mridha</h3>
 <h3 align="center" style="color:#F9521D"> Software Developer & Designer<h3>
 
-<P align="center"><img width="275" align="center" src=""/>
+<P align="center"><img width="275" align="center" src="./git_profile.JPG"/>
 </p>
 
 
