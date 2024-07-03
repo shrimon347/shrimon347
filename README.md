@@ -9,8 +9,8 @@ I’m a Web developer & Designer who is passionate about making error-free websi
 
 
 
-- 🔭 I’m currently working on thesis project 
-- 🌱 I’m currently learning React & python 
+- 🔭 I’m currently working on a project 
+- 🌱 I’m currently learning React & python djagno rest api
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about web development 
 - 📫 How to reach me: shrimon1999@gmail.com 
