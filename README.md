@@ -1,19 +1,14 @@
-<h3 align="center">Hi 👻, I'm Rimon Mridha</h3>
-<h3 align="center" style="color:#F9521D"> Software Developer & Designer<h3>
+<h3 align="center">~ Hello there! 👻, I'm Rimon Mridha ~</h3>
 
-<P align="center"><img width="275" align="center" src="./git_profile.JPG"/>
-</p>
+### Hi there 👋
 
+I am Rimon Mridha. I am a recent graduate with a strong interest in backend engineering and little bit interest in frontend. I've completed my undergrad on **Computer Science & Engineering** at _[Faridpur Engineering College](https://fec.ac.bd/)_. Besides tech I'm also fairly invested in movies & animes, reading and travelling.
 
-I’m a Web developer & Designer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.
-
+> 💡 _I'm open to new opportunities in the domain of backend engineering._
 
 
-- 🔭 I’m currently working on a project 
-- 🌱 I’m currently learning React & python djagno rest api
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about web development 
-- 📫 How to reach me: shrimon1999@gmail.com 
+
+
 
 <div align="left">
   <a href="https://dribbble.com/RIOBOT" target="_blank">
