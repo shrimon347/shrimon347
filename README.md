@@ -9,7 +9,7 @@ I am Rimon Mridha. I am a recent graduate with a strong interest in backend engi
 ### 🧑‍💻 My Tech!
 
 <p>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=django&logoColor=fff" alt="django" />
+<img src="https://img.shields.io/badge/django?logo=django&logoColor=fff" alt="django" />
 <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=fastapi&logoColor=white" alt="fast-api" />
 <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" alt="express-js" />
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="docker" />
