@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am Rimon Mridha. I am a recent graduate with a strong interest in backend engineering and little bit interest in frontend. I've completed my undergrad on **Computer Science & Engineering** at _[Faridpur Engineering College](https://fec.ac.bd/)_. Besides tech I'm also fairly invested in movies & animes, reading and travelling.
+I am Rimon Mridha. I am a recent graduate with a strong interest in backend engineering and little bit interest in frontend. I've completed my undergrad on **Computer Science & Engineering** at _[Faridpur Engineering College](https://fec.ac.bd/)_. Besides tech I'm also fairly invested in sports, movies ,animes, reading and travelling.
 
 > 💡 _I'm open to new opportunities in the domain of backend engineering._
 
