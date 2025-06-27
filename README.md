@@ -32,5 +32,6 @@ I am Rimon Mridha. I am a recent graduate with a strong interest in backend engi
 <img align="left" alt="Rimon's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shrimon347&theme=algolia&show_icons=true" /> &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrimon347&theme=algolia&hide_progress=true&layout=compact)](https://github.com/shrimon347/github-readme-stats)
 
-
-<img align="center" src="https://streak-stats.demolab.com?user=shrimon347&theme=algolia&show_icons=true"/>
+<br>
+<br>
+<p><img align="center" src="https://streak-stats.demolab.com?user=shrimon347&theme=algolia&show_icons=true"/></p>
