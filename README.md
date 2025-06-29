@@ -17,7 +17,7 @@ I am Rimon Mridha. I am a recent graduate with a strong interest in backend engi
 </p>
 
 - **Languages** - `C++` `Python` `Javascript` `Java`
-- **Backend** - `Django` `Node.js` `Node.js` `Express.js`
+- **Backend** - `Django` `FastAPI` `Node.js` `Express.js`
 - **Frontend** - `React` `Next.js` `Tailwind Css`
 - **Database** - `MySQL` `PostgreSQL` `MongoDB`
 - **Tools** - `Git` `Github Actions`
